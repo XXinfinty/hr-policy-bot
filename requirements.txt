@@ -1,0 +1,8 @@
+streamlit
+langchain
+langgraph
+chromadb
+sentence-transformers
+nbformat
+nbconvert
+langchain-groq
