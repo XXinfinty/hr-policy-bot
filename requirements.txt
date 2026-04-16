@@ -1,8 +1,9 @@
 streamlit
 langchain
 langgraph
-chromadb
+chromadb==0.4.24
 sentence-transformers
 nbformat
 nbconvert
 langchain-groq
+protobuf==3.20.3
