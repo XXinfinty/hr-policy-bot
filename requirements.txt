@@ -7,3 +7,4 @@ nbformat
 nbconvert
 langchain-groq
 protobuf==3.20.3
+numpy==1.26.4
